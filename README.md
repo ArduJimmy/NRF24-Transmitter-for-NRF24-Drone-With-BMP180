@@ -12,8 +12,11 @@
   <li><a href="https://www.youtube.com/watch?v=wbK7oOLr6PM" target="_blank">How to make NRF24L01 Quadcopter + Multiwii 2.3</a></li>
   <li><a href="https://www.youtube.com/watch?v=FOICuyzBk54" target="_blank">Flying Test: NRF24L01 Mini Quadcopter</a></li>
   <li><a href="https://www.youtube.com/watch?v=sLL9Ln12AQs" target="_blank">Main Troubleshooting Tips with NRF24L01</a></li>  
+  <li>How to Add Trimmers on your NRF24L01 Transmitter (will be available soon)</li>    
   <li>Flying Demo: How To train your drone on Hover (will be available soon)</li>  
 </ol>
+
+<p>All those videos are related each other. I'm so glad to share those all to you for free without hidden tips, tricks or else. </p>
 
 <h3>PIN CONFIGURATION</h3>
 <p>Will be available soon .........</p>
@@ -24,7 +27,6 @@
 <h3>HOW TO TRAIN YOUR NRF24L01 Quadcopter to Activate Altitude Hold Mode ON</h3>
 <p>Will be available soon .........</p>
 
-<h3></h3>
 
-
-<h3></h3>
+<h4>HOW TO SUPPORT US?</h4>
+<p>Please Subscribe and Share our videos if you feel that ours videos are useful for you and others. I want all people know how to make drone!</p>
