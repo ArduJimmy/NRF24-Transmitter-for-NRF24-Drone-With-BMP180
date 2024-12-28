@@ -125,10 +125,23 @@
   <li>GND of Button pins to GND of Arduino</li>
 </ul>
 
-<h3>FULL SCHEMATIC DIAGRAM FOR SPECIFIC JOYSTICK</h3>
+<h2>FULL SCHEMATIC DIAGRAM FOR SPECIFIC JOYSTICK</h2>
 <p>You can replace if you dont need LCD or and want to change it to Cheap Joystick. But, Cheap Joystick can not be used to TRAIN our NRF24 Altitude-Hold Mode Drone!</p>
 
+<img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/full-schematic-specific-joystick-diagram.jpg" alt="Schematic Diagram for Specific Joystick ONLY" title="Schematic Diagram for Specific Joystick ONLY"/>
 
+
+<h3>GND Wiring</h3>
+
+<img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/gnd-joystick-wiring.jpg" alt="GND Wiring for Specific Joystick ONLY" title="GND Wiring for Specific Joystick ONLY"/>
+
+<h3>VCC Wiring</h3>
+
+<img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/vcc-joystick-wiring.jpg" alt="VCC Wiring for Specific Joystick ONLY" title="VCC Wiring for Specific Joystick ONLY"/>
+
+<h3>X-AXIS and Y-AXIS Wiring</h3>
+
+<img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/AXIS-joystick-wiring.jpg" alt="X-AXIS and Y-AXIS for Specific Joystick ONLY" title="X-AXIS and Y-AXIS for Specific Joystick ONLY"/>
 
 <h3>HOW TO TRAIN YOUR NRF24L01 Quadcopter to Activate Altitude Hold Mode ON</h3>
 <p>The Flying Demo Will be available soon .........</p>
