@@ -3,7 +3,7 @@
 <h2>This project ONLY WORKS for LADYBIRD Board Type with Custom Multiwii 2.3</h2>
 <p><b>Disclaimer:</b> If you take this project, you agree that you take your own risk. Please be careful. Safety is always number #1</p>
 
-<h2>NRF24L01 TRANSMITTER <br />FOR NRF24L01 MINI QUADCOPTER + MULTIWII 2.3 + BMP180</h2>
+<h2>UPGRADED NRF24L01 TRANSMITTER <br />FOR NRF24L01 MINI QUADCOPTER + MULTIWII 2.3 + BMP180</h2>
 <p>In this project, I add a Trimmer feature, including: 2 buttons for ROLL and 2 buttons for PITCH. All is integrated in Standard NRF24L01 Transmitter. Please see our Videos listed below:</p>
 
 <ol>
@@ -74,10 +74,56 @@
   <li>D7 pin of Arduino to Button 3 signal pin(Trimmer for ROLL DOWN)</li>
   <li>D8 pin of Arduino to Button 4 signal pin(Trimmer for ROLL UP)</li>
   <li>GND of Button pins to GND of Arduino</li>
-  
 </ul>
 
+<h4>CHEAP ANALOG JOYSTICK + Trimmers</h4>
+<p><b>NOTE:</b> If you use a CHEAP ANALOG JOYSTICK then this transmitter can not be used to train your NRF24 drone to activate Altitude Hold Mood ON</p>
+<ul>
+  <li>D4 Arduino to CE pin of NRF24L01</li>
+  <li>D3 Arduino to CSN  pin of NRF24L01</li>
+  <li>D13 Arduino to SCK pin of NRF24L01</li>
+  <li>D11 Arduino to MOSI pin of NRF24L01</li>
+  <li>D12 Arduino to MISO pin of NRF24L01</li>
+  <li>VCC and GND input pins of NRF24-Breakout to VCC and GND pins of Arduino</li>
+  <li>VCC pin of Cheap Joystick to VCC pin of Arduno</li>
+  <li>GND pin of Cheap Joystick to GND pin of Arduino</li>
+  <li>A0 pin of arduino to VRX pin of Cheap Joystick</li>
+  <li>A1 pin of arduino to VRY pin of Cheap Joystick</li>
+  <li>A2 pin of arduino to VRY pin of Cheap Joystick</li>
+  <li>A3 pin of arduino to VRX pin of Cheap Joystick</li>
+  <li>AUX1: D9 pin of Arduino to Signal pin of Toggle Switch (we dont use AUX2, AUX3, etc.)</li>
+  <li>VCC and GND output pins of Step-up Converter to VCC and GND pins of Arduino</li>
+  <li>VCC and GND INPUT pins of Step-up Converter to VCC and GND pins of Battery 18650 3.7v 1200mAh</li>  
+  <li>D5 pin of Arduino to Button 1 signal pin (Trimmer for PITCH DOWN)</li>
+  <li>D6 pin of Arduino to Button 2 signal pin(Trimmer for PITCH UP)</li>
+  <li>D7 pin of Arduino to Button 3 signal pin(Trimmer for ROLL DOWN)</li>
+  <li>D8 pin of Arduino to Button 4 signal pin(Trimmer for ROLL UP)</li>
+  <li>GND of Button pins to GND of Arduino</li>
+</ul>
 
+<h4>SPECIFIC JOYSTICK + Trimmers</h4>
+<ul>
+  <li>D4 Arduino to CE pin of NRF24L01</li>
+  <li>D3 Arduino to CSN  pin of NRF24L01</li>
+  <li>D13 Arduino to SCK pin of NRF24L01</li>
+  <li>D11 Arduino to MOSI pin of NRF24L01</li>
+  <li>D12 Arduino to MISO pin of NRF24L01</li>
+  <li>VCC and GND input pins of NRF24-Breakout to VCC and GND pins of Arduino</li>
+  <li>VCC pins of Specific Joystick to VCC pin of Arduno</li>
+  <li>GND pins of Specific Joystick to GND pin of Arduino</li>
+  <li>A0 pin of arduino to <b>X-AXIS</b> pin of Specific Joystick</li>
+  <li>A1 pin of arduino to <b>Y-AXIS</b> pin of Specific Joystick</li>
+  <li>A2 pin of arduino to VRY pin of Cheap Joystick or Y-AXIS of Specific Joystick (ROLL)</li>
+  <li>A3 pin of arduino to VRX pin of Cheap Joystick or X-AXIS of Specific Joystick (PITCH)</li>
+  <li>AUX1: D9 pin of Arduino to Signal pin of Toggle Switch (we dont use AUX2, AUX3, etc.)</li>
+  <li>VCC and GND output pins of Step-up Converter to VCC and GND pins of Arduino</li>
+  <li>VCC and GND INPUT pins of Step-up Converter to VCC and GND pins of Battery 18650 3.7v 1200mAh</li>  
+  <li>D5 pin of Arduino to Button 1 signal pin (Trimmer for PITCH DOWN)</li>
+  <li>D6 pin of Arduino to Button 2 signal pin(Trimmer for PITCH UP)</li>
+  <li>D7 pin of Arduino to Button 3 signal pin(Trimmer for ROLL DOWN)</li>
+  <li>D8 pin of Arduino to Button 4 signal pin(Trimmer for ROLL UP)</li>
+  <li>GND of Button pins to GND of Arduino</li>
+</ul>
 
 <h3>SCHEMATIC DIAGRAM</h3>
 <p>Will be available soon .........</p>
