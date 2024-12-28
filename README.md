@@ -18,8 +18,8 @@
 
 <p>All those videos are related each other. I'm so glad to share those all to you for free without hidden tips, tricks or else. </p>
 
-<h3>PIN CONFIGURATION WITH LCD</h3>
-<p>Please take notice carefully all pins wiring below. This wiring is only for upgraded NRF24 Transmitter for <b>NRF24 Drone with BMP180 ONLY!</b></p>
+<h3>PIN CONFIGURATION</h3>
+<p>Please take notice carefully all pins wiring below. This wiring is only for upgraded NRF24 Transmitter for <b>NRF24 Drone with BMP180 ONLY!</b>. You can choose one of this following pin configurations based on your NEED!</p>
 
 <h4>SPECIFIC JOYSTICK + LCD ONLY + Trimmers</h4>
 <ul>
