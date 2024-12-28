@@ -125,8 +125,10 @@
   <li>GND of Button pins to GND of Arduino</li>
 </ul>
 
-<h3>SCHEMATIC DIAGRAM</h3>
-<p>Will be available soon .........</p>
+<h3>FULL SCHEMATIC DIAGRAM FOR SPECIFIC JOYSTICK</h3>
+<p>You can replace if you dont need LCD or and want to change it to Cheap Joystick. But, Cheap Joystick can not be used to TRAIN our NRF24 Altitude-Hold Mode Drone!</p>
+
+
 
 <h3>HOW TO TRAIN YOUR NRF24L01 Quadcopter to Activate Altitude Hold Mode ON</h3>
 <p>The Flying Demo Will be available soon .........</p>
