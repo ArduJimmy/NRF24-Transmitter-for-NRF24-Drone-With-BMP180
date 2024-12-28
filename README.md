@@ -126,7 +126,7 @@
 </ul>
 
 <h2>FULL SCHEMATIC DIAGRAM FOR SPECIFIC JOYSTICK</h2>
-<p>You can replace if you dont need LCD or and want to change it to Cheap Joystick. But, Cheap Joystick can not be used to TRAIN our NRF24 Altitude-Hold Mode Drone!</p>
+<p>You can replace if you dont need LCD or and want to change it to Cheap Joystick. <b>But, Cheap Joystick can not be used to TRAIN our NRF24 Altitude-Hold Mode Drone!!!!!!</b></p>
 
 <img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/full-schematic-specific-joystick-diagram.jpg" alt="Schematic Diagram for Specific Joystick ONLY" title="Schematic Diagram for Specific Joystick ONLY"/>
 
