@@ -143,6 +143,9 @@
 
 <img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/AXIS-joystick-wiring.jpg" alt="X-AXIS and Y-AXIS for Specific Joystick ONLY" title="X-AXIS and Y-AXIS for Specific Joystick ONLY"/>
 
+<h2>IMPORTANT NOTE</h2>
+<p>If you find something wrong with the code I provided, please use file "Final-Optimized_NRF24_TX_Trimmer.zip" - That is OPTIMIZED code.</p>
+
 <h3>HOW TO TRAIN YOUR NRF24L01 Quadcopter to Activate Altitude Hold Mode ON</h3>
 <p>The Flying Demo Will be available soon .........</p>
 
