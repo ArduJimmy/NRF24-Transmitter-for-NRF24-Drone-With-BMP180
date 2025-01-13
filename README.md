@@ -122,13 +122,14 @@
   <li>D6 pin of Arduino to Button 2 signal pin(Trimmer for PITCH UP)</li>
   <li>D7 pin of Arduino to Button 3 signal pin(Trimmer for ROLL DOWN)</li>
   <li>D8 pin of Arduino to Button 4 signal pin(Trimmer for ROLL UP)</li>
+  <li>D2 pin of Arduino to Button 5 Signal pin (RESET BUTTON for TRIMMER)</li>
   <li>GND of Button pins to GND of Arduino</li>
 </ul>
 
 <h2>FULL SCHEMATIC DIAGRAM FOR SPECIFIC JOYSTICK</h2>
 <p>You can replace if you dont need LCD or and want to change it to Cheap Joystick. <b>But, Cheap Joystick can not be used to TRAIN our NRF24 Altitude-Hold Mode Drone!!!!!!</b></p>
 
-<img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/full-schematic-specific-joystick-diagram.jpg" alt="Schematic Diagram for Specific Joystick ONLY" title="Schematic Diagram for Specific Joystick ONLY"/>
+<img src="https://github.com/ArduJimmy/NRF24-Transmitter-for-NRF24-Drone-With-BMP180/blob/main/NRF24L01-Drone_Transmitter_with_Trimmer_LCD.jpg" alt="Schematic Diagram for Specific Joystick ONLY" title="Schematic Diagram for Specific Joystick ONLY"/>
 
 
 <h3>GND Wiring</h3>
