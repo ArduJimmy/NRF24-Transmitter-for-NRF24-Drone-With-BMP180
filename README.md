@@ -1,4 +1,5 @@
-# UPGRADING NRF24 QUADX TRANSMITTER for NRF24 Multiwii DRONE 2.3 with BMP180
+# UPDATED IN JANUARY 13, 2025
+# UPGRADED OPTIMIZED AND POWERFUL NRF24 QUADX TRANSMITTER for NRF24 Multiwii DRONE 2.3 with BMP180
 
 <h2>This project ONLY WORKS for LADYBIRD Board Type with Custom Multiwii 2.3</h2>
 <p><b>Disclaimer:</b> If you take this project, you agree that you take your own risk. Please be careful. Safety is always number #1</p>
